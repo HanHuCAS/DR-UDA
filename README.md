@@ -31,7 +31,7 @@ This project is released under the Apache 2.0 license.
   journal={IEEE Transactions on Information Forensics and Security},
   volume={16},
   pages={56--69},
-  year={2020},
+  year={2021},
   publisher={IEEE}
 }
 ```
